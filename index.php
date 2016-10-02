@@ -54,7 +54,7 @@
         <div class="medium-4 columns">
           <div class="callout info">
             <img class="expand" src="img/land-thumb.jpg" alt="supply"/>
-            <h4>The Dakota Access Pipeline is Extremely Unsafe</h4>
+            <h4>The Dakota Access Pipeline is Extremely Unsafe.</h4>
             <p>The <strong>Dakota Access Pipeline</strong> is no ordinary pipeline.  It is very large, with a 36 inch diameter and capacity of 570,000 barrels per day – it would significantly increase the total capacity of the pipelines crossing the Missouri River.  DAPL presents a far greater risk to the environment and public health than other, smaller liquid and natural gas lines.  Oil pipelines pose more risk to water supplies and have more construction impacts than other methods of transporting oil.</p>
           </div>
         </div>
