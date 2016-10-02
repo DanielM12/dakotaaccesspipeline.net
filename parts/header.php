@@ -126,8 +126,8 @@
                 <li class="has-dropdown">
                   <a href="index.html#">About the Dakota Access Pipeline</a>
                   <ul class="dropdown">
-                <li><a href="about/overview.html">Overview</a></li>
-                <li><a href="about/route.html">The Route</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/about/overview.php">Overview</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/about/route.php">The Route</a></li>
                 <li><a href="about/community.html">In the Community</a></li>
               </ul>
                 </li>
