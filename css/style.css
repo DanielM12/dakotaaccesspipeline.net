@@ -1,0 +1,317 @@
+/* Layout
+----------------------- */
+
+.row {
+	max-width:68rem;
+}
+
+img {
+	margin-bottom: 25px;
+}
+
+.left {
+	float:left;
+}
+
+/* Text
+----------------------- */
+
+p, h1, h2, h3, h4, h5, ul, li {
+	font-family: 'Open Sans', sans-serif;
+}
+
+p, li {
+	font-size: .95rem;
+	line-height: 1.6;
+	color: #414042;
+}
+
+p.right {
+	text-align: right;
+}
+
+li {
+	font-size: .95rem;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: 700;
+	line-height: 1.3;
+}
+
+a {
+	color: #000;
+	font-weight: 700;
+}
+
+a:hover {
+	color: #76a2cf;
+}
+
+/* Header
+----------------------- */
+
+header {
+	background-color: #45637d;
+	color: white;
+}
+
+header h1 {
+	color:white;
+}
+
+#header-nav li {
+	display: inline;
+	font-size: 11px;
+	margin-right:20px;
+	padding-right:20px;
+	border-right: 2px solid white;
+}
+
+#header-nav li:last-child {
+	margin-right:0px;
+	padding-right:0px;
+	border-right: none;
+}
+
+#header-nav li a{
+	color: #ffffff;
+	font-size: 11px;
+}
+
+#header-nav {
+	margin-top:20px;
+	float: right;
+}
+
+/* Nav
+----------------------- */
+
+#logo {
+	width:260px
+	height:58px;
+	text-indent: -9999px;
+	/* background-image:url('../img/logo.svg'); */
+	background-repeat: no-repeat;
+	margin:40px 0px 15px;
+}
+
+.top-bar {
+	background: #7790aa;
+	margin-bottom: 20px;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button) {
+	background: #7790aa;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover {
+	background: #76a2cf;
+}
+
+.top-bar-section ul li > a {
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+}
+
+.top-bar-section .dropdown li:not(.has-form):not(.active) > a:not(.button) {
+	background: #7790aa;
+}
+
+.top-bar-section .dropdown li:not(.has-form):not(.active):hover > a:not(.button) {
+	background: #76a2cf;
+}
+
+.top-bar-section ul li:hover:not(.has-form) > a {
+	background: #7790aa;
+}
+
+.top-bar-section > ul > li {
+	border-right: 2px solid #e3e3e3;
+}
+
+.top-bar-section > ul > li:last-child {
+	border-right: none;
+}
+
+.top-bar-section > ul > li:not(.has-form) > a:not(.button) {
+	padding: 0 2.01rem !important;
+}
+
+.top-bar-section .has-dropdown > a:after {
+	display: none;
+}
+
+
+/* Layout
+----------------------- */
+
+.page-wrapper {
+	background-color: #f1f2f2;
+	overflow: auto;
+}
+
+.page-container {
+	background-color: #ffffff;
+	padding:20px;
+}
+
+/* Home Page
+----------------------- */
+
+.home-facts img {
+	max-width: 150px;
+	margin: 5px 10px 10px 0px;
+}
+
+
+/* Footer
+----------------------- */
+
+footer {
+	background-color: #7790aa;
+	padding:45px 0px 15px;
+	color: white;
+}
+
+footer p {
+	color: white;
+	font-size: 11px;
+}
+
+#footer-nav {
+	float:right;
+}
+
+#footer-nav li {
+	display: inline;
+	font-size: 11px;
+	text-transform: uppercase;
+	margin-right:55px;
+}
+
+#footer-nav li:last-child {
+	margin-right:0px;
+}
+
+#footer-nav li a{
+	color: #ffffff;
+	font-weight: 400;
+	font-size: 12px;
+}
+
+
+/* Side Nav
+----------------------- */
+
+#side-nav ul {
+	list-style-type: none;
+	margin-left: 0px;
+}
+
+#side-nav li{
+	padding:10px 20px;
+	background-color: #e4e9ee;
+	border-bottom: 1px solid #d1d3d4;
+	font-style: italic;
+}
+
+#side-nav li:first-child {
+	background-color: #76a2cf;
+}
+
+#side-nav li:last-child {
+	border-bottom: none;
+}
+
+#side-nav h5 {
+	color:white;
+}
+
+.callout {
+	background-color: #e7e7e7;
+	margin-bottom: 30px;
+}
+
+.callout ul {
+	padding:10px 0px 20px;
+}
+
+.callout li {
+	font-size: 13px;
+	margin: 0px 20px 10px;
+}
+
+.callout h5 {
+	color: white;
+	background-color: #76a2cf;
+	padding:10px 20px;
+}
+
+
+/* Accordian
+----------------------- */
+
+.accordion {
+	margin-left: 0;
+}
+
+.accordion .accordion-navigation > a, .accordion dd > a {
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+a.custom_01
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+
+a.custom_01:visited
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #0c3376;
+	text-decoration: none;
+}
+
+a.custom_01:hover
+{
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+    color: #666666;
+	text-decoration: none;
+}
+
+
+a.custom_02
+{
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color: #0c3376;
+	text-decoration: none;
+}
+
+a.custom_02:visited
+{
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+	color: #0c3376;
+	text-decoration: none;
+}
+
+a.custom_02:hover
+{
+	font-family: Arial;
+	font-size: 15px;
+	font-weight: bold;
+    color: #666666;
+	text-decoration: none;
+}
