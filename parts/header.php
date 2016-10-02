@@ -140,7 +140,7 @@
                   <ul class="dropdown">
                 <li><a href="http://dakotaaccesspipeline.net/about/overview.php">Overview</a></li>
                 <li><a href="http://dakotaaccesspipeline.net/about/route.php">The Route</a></li>
-                <li><a href="about/community.html">In the Community</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/about/community.html">In the Community</a></li>
               </ul>
                 </li>
                 <li class="has-dropdown">
