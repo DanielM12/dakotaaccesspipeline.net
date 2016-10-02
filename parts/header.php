@@ -48,8 +48,7 @@
      {
       "http://schema.org/description": [
         {
-          "@value": "The Dakota Access Pipelineis a massive oil pipeline that poses great danger
-          to the people of North Dakota and the state's renown farmland."
+          "@value": "The Dakota Access Pipelineis a massive oil pipeline that poses great danger to the people of North Dakota and the state's renown farmland."
         }
       ],
       "http://schema.org/geo": [
@@ -129,7 +128,7 @@
               <li class="name">
               </li>
                <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
-              <li class="toggle-topbar menu-icon"><a href="index.html#"><span>Menu</span></a></li>
+              <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
 
             <section class="top-bar-section">
@@ -140,7 +139,7 @@
                   <ul class="dropdown">
                 <li><a href="http://dakotaaccesspipeline.net/about/overview.php">Overview</a></li>
                 <li><a href="http://dakotaaccesspipeline.net/about/route.php">The Route</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/about/community.html">In the Community</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/about/community.php">In the Community</a></li>
               </ul>
                 </li>
                 <li class="has-dropdown">
