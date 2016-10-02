@@ -11,11 +11,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/about\/fact-sheet.html": {
+	"\/about\/fact-sheet.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/about\/fact-sheet.html",
+		"inputAbbreviatedPath": "\/about\/fact-sheet.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

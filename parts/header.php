@@ -15,7 +15,7 @@
       ▄▄▄▄▄██████████████▀
            call it off.
 
-      == website by quaid ==
+      == website by other98 ==
 
     -->
 
@@ -136,11 +136,20 @@
               <!-- Left Nav Section -->
               <ul class="left">
                 <li class="has-dropdown">
-                  <a href="index.html#">About the Dakota Access Pipeline</a>
+                  <a href="http://dakotaaccesspipeline.net/about/overview.php">About the Dakota Access Pipeline</a>
                   <ul class="dropdown">
                 <li><a href="http://dakotaaccesspipeline.net/about/overview.php">Overview</a></li>
                 <li><a href="http://dakotaaccesspipeline.net/about/route.php">The Route</a></li>
                 <li><a href="http://dakotaaccesspipeline.net/about/community.html">In the Community</a></li>
+              </ul>
+                </li>
+                <li class="has-dropdown">
+                  <a href="index.html#">Dakota Access Pipeline Information</a>
+                  <ul class="dropdown">
+                <li><a href="resources/faq.html">Frequently Asked Questions</a></li>
+                <li><a href="resources/project-filings.html">Project Filings</a></li>
+                <li><a href="resources/project-maps.html">Project Maps</a></li>
+                <li><a href="resources/presentations.html">Presentations</a></li>
               </ul>
                 </li>
                 <li class="has-dropdown">
@@ -167,6 +176,9 @@
                 <li><a href="project-safety/national-pipeline-safety.html">National Pipeline Safety</a></li>
                 <li><a href="project-safety/safety-commitment.html">Dakota Access’ Commitment to Safety</a></li>
                   </ul>
+                </li>
+                <li>
+                  <a href="index.html#">Contact</a>
                 </li>
               </ul>
             </section>
