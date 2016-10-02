@@ -165,6 +165,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/ugly-pipes.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17471,
+		"inputAbbreviatedPath": "\/img\/ugly-pipes.jpg",
+		"outputAbbreviatedPath": "\/img\/ugly-pipes.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/water.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 65331,
+		"inputAbbreviatedPath": "\/img\/water.jpg",
+		"outputAbbreviatedPath": "\/img\/water.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.amp.html": {
 		"fileType": 8192,
 		"ignore": 0,
