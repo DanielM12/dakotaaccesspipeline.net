@@ -28,12 +28,12 @@
     <meta name="description" content="The Dakota Access pipeline is proposed to transport crude oil from the North Dakota Bakken region, endangering the lives and livelihoods of everyone in its path.">
 
     <!-- css -->
-    <link rel="stylesheet" href="css/foundation.css" />
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="http://dakotaaccesspipeline.net/css/foundation.css" />
+    <link rel="stylesheet" href="http://dakotaaccesspipeline.net/css/style.css" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800' rel='stylesheet' type='text/css'>
 
     <!-- js -->
-    <script src="js/vendor/modernizr.js"></script>
+    <script src="http://dakotaaccesspipeline.net/js/vendor/modernizr.js"></script>
 
     <!--
      SERVE AMP VER for home
@@ -90,7 +90,7 @@
 	      <div class="row">
 
 		      <div class="medium-8 columns">
-            <img id="logo" src="img/logo.svg" />
+            <img id="logo" src="http://dakotaaccesspipeline.net/img/logo.svg" />
 			      <h1>Dakota Access Pipeline (DAPL)</h1>
 		      </div>
 
@@ -164,6 +164,6 @@
 
         <div class="row">
           <div class="large-12 columns">
-            <img src="img/dakota-map.jpg" alt="map"/>
+            <img id="header-image" src="http://dakotaaccesspipeline.net/img/dakota-map.jpg" alt="map"/>
           </div>
         </div>
