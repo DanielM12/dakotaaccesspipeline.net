@@ -48,7 +48,8 @@
      {
       "http://schema.org/description": [
         {
-          "@value": "The Dakota Access Pipelineis a massive oil pipeline that poses great danger to the people of North Dakota and the state's renown farmland."
+          "@value": "The Dakota Access Pipelineis a massive oil pipeline that poses great danger
+          to the people of North Dakota and the state's renown farmland."
         }
       ],
       "http://schema.org/geo": [
@@ -110,7 +111,6 @@
 
 			      <ul id="header-nav">
 				      <li><a href="#" class="button alert large-expanded small-expanded expand">Subscribe To DAPL Spill Alerts</a></li>
-              <li><a href="#" class="button success large-expanded small-expanded expand"><strong>Having a Disaster Mitigation Plan</a></li>
 			      </ul>
 
 		      </div>
@@ -144,7 +144,7 @@
               </ul>
                 </li>
                 <li class="has-dropdown">
-                  <a href="index.html#">Dakota Access Pipeline Information</a>
+                  <a href="index.html#">Dakota Access Pipeline Facts</a>
                   <ul class="dropdown">
                 <li><a href="resources/faq.html">Frequently Asked Questions</a></li>
                 <li><a href="resources/project-filings.html">Project Filings</a></li>
