@@ -348,7 +348,7 @@ a.custom_02:hover
 
 }
 	#side-nav-wrapper img {
-		width: 30%;
+		width: 30%!important;
 		margin-left:35%;
 		margin-right:35%;
 	}

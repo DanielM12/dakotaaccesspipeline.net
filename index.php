@@ -1,4 +1,4 @@
-<?php require("/parts/header.php"); ?>
+<?php require("parts/header.php"); ?>
 
     <div class="row">
       <div class="large-8 columns home-facts">
@@ -25,6 +25,7 @@
         <img src="img/water.jpg" alt="Questions About Water Safety and the Dakota Access Pipeline (DAPL)" />
       </div>
     </div>
+  </div>
 
     <div id="quick-facts" class="row">
       <div class="large-12 columns">
@@ -58,4 +59,4 @@
       </div>
 </div>
 
-<?php require("/parts/footer.php"); ?>
+<?php require("parts/footer.php"); ?>
