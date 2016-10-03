@@ -8,6 +8,8 @@
             <p><blockquote>“It’s a shameful act by a group of people trying to disrupt our energy security and independence,” <cite>Dakota Access Officials, http://apne.ws/2cLNofc</cite></blockquote></p>
             <p>The thing is, despite the insincere flag waving, Energy Transfer, LLC plans on exporting the oil that comes through the pipeline. As Energy Transfer, LLC presented
               to bigwig corporate Citi Group investors:</p>
+						<h4>Investor Slide Showing Dakota Access Pipeline's Oil Export Plans</h4>
+						<hr>
             <img src="http://dakotaaccesspipeline.net/img/busted.png" style="width:100%;" alt="Dakota Access Pipeline DAPL is excited to explore foreign oil export options!">
             <a class="button" href="http://bit.ly/2cLMb7J">View the full leaked PDF on how little DAPL cares about America here.</a>
 			    </div>
