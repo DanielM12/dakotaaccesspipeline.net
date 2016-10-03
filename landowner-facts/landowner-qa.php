@@ -9,6 +9,7 @@
   						oil and gas pipeline projects.”<cite>"Dakota Access Pipeline Condmenation Lawsuits", Bismarck Tribune, January 1, 2016</cite>
   					</blockquote></p>
             <h5>Statement by Standing Rock Sioux Tribe on Dakota Access Pipeline:</h5>
+            <hr>
             <blockquote>
   						<p>The Standing Rock Sioux Tribe will continue to explore all legal, legislative, and administrative options to stop construction of the Dakota Access Pipeline. The pipeline has already led to the
   							destruction of our sacred sites.</p>
