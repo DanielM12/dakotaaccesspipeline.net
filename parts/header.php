@@ -35,54 +35,12 @@
     <!-- js -->
     <script src="http://dakotaaccesspipeline.net/js/vendor/modernizr.js"></script>
 
-    <!--
-     SERVE AMP VER for home
-     https://developers.google.com/search/docs/guides/use-AMP-HTML -->
-
+    <!-- AMP
+      doc: https://developers.google.com/search/docs/guides/use-AMP-HTML -->
     <link rel="canonical" href="http://dakotaaccesspipeline.net/index.amp.html" />
 
-    <!-- JSON-LD meta data
-    http://json-ld.org/playground/ -->
-    <script type="application/ld+json">
-
-     {
-      "http://schema.org/description": [
-        {
-          "@value": "The Dakota Access Pipelineis a massive oil pipeline that poses great danger to the people of North Dakota and the state's renown farmland."
-        }
-      ],
-      "http://schema.org/geo": [
-        {
-          "http://schema.org/latitude": [
-            {
-              "@type": "http://www.w3.org/2001/XMLSchema#float",
-              "@value": "46.38"
-            }
-          ],
-          "http://schema.org/longitude": [
-            {
-              "@type": "http://www.w3.org/2001/XMLSchema#float",
-              "@value": "100.59"
-            }
-          ]
-        }
-      ],
-      "http://schema.org/image": [
-        {
-          "@id": "img/dakota-access-pipeline.jpg"
-        }
-      ],
-      "http://schema.org/name": [
-        {
-          "@value": "Dakota Access Pipeline"
-        }
-      ]
-     }
-
-     </script>
-
      <!-- gAnalytics -->
-     <script>
+    <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -90,12 +48,43 @@
 
       ga('create', 'UA-15777238-8', 'auto');
       ga('send', 'pageview');
-
     </script>
+
+    <!-- facebook meta -->
+    <meta property="og:title" content="Dakota Access Pipeline">
+		<meta property="og:site_name" content="Dakota Access Pipeline">
+		<meta property="og:url" content="http://dakotaaccesspipeline.net">
+		<meta property="og:description" content="The Dakota Access pipeline is proposed to transport crude oil from the North Dakota Bakken region, endangering the lives and livelihoods of everyone in its path.">
+		<meta property="fb:app_id" content="202632236814769">
+		<meta property="og:type" content="article">
+		<meta property="og:image" content="http://dakotaaccesspipeline.net/img/dakota-map.jpg">
+    <!-- by the way, if anybody from energy transfer llc ever reads this..
+        it must be a super boring job being a web developer for sites
+        that don't even require social metadata because nobody gives
+        a hoot about em xD -->
 
   </head>
 
   <body>
+
+    <!-- facebook js sdk -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '202632236814769',
+          xfbml      : true,
+          version    : 'v2.7'
+        });
+      };
+
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
 
     <header>
 
@@ -110,6 +99,7 @@
 
 			      <ul id="header-nav">
 				      <li><a href="#" class="button alert expand">Subscribe To DAPL Spill Alerts</a></li>
+              <li><div class="fb-like" data-share="true" data-width="450" data-show-faces="true"></div></li>
 			      </ul>
 
 		      </div>
@@ -143,35 +133,35 @@
                 <li class="has-dropdown">
                   <a href="index.html#">Dakota Access Pipeline Facts</a>
                   <ul class="dropdown">
-                <li><a href="resources/faq.html">Frequently Asked Questions</a></li>
-                <li><a href="resources/project-filings.html">Project Filings</a></li>
-                <li><a href="resources/project-maps.html">Project Maps</a></li>
-                <li><a href="resources/presentations.html">Presentations</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/resources/faq.html">Frequently Asked Questions</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/resources/project-filings.html">Project Filings</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/resources/project-maps.html">Project Maps</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/resources/presentations.html">Presentations</a></li>
               </ul>
                 </li>
                 <li class="has-dropdown">
                   <a href="index.html#">Dakota Access Pipeline Dangers</a>
                   <ul class="dropdown">
-                <li><a href="resources/faq.html">Frequently Asked Questions</a></li>
-                <li><a href="resources/project-filings.html">Project Filings</a></li>
-                <li><a href="resources/project-maps.html">Project Maps</a></li>
-                <li><a href="resources/presentations.html">Presentations</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/dangers/faq.html">Frequently Asked Questions</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/resources/project-filings.html">Project Filings</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/resources/project-maps.html">Project Maps</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/resources/presentations.html">Presentations</a></li>
               </ul>
                 </li>
                 <li class="has-dropdown">
-                  <a href="index.html#">Landowner Issues</a>
+                  <a href="http://dakotaaccesspipeline.net/landowner-qa.php">Landowner Issues</a>
                   <ul class="dropdown">
-                  <li><a href="landowner-facts/landowner-qa.html">Landowner Q&A</a></li>
-                <li><a href="landowner-facts/environmental-protection.html">Environmental Protection</a></li>
-                <li><a href="landowner-facts/agricultural-plan.html">Agricultural Plan</a></li>
-                <li><a href="landowner-facts/landowner-property.html">Landowner Property</a></li>
+                  <li><a href="http://dakotaccesspipeline.net/landowner-facts/landowner-qa.php">Landowner Q&A</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/landowner-facts/environmental-protection.html">Environmental Protection</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/landowner-facts/agricultural-plan.html">Agricultural Plan</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-property.html">Landowner Property</a></li>
                   </ul>
                 </li>
                 <li class="has-dropdown">
-                  <a href="index.html#">How To Keep Your Family Safe</a>
+                  <a href="http://dakotaaccesspipeline.net/index.html#">How To Keep Your Family Safe</a>
                   <ul class="dropdown">
-                <li><a href="project-safety/national-pipeline-safety.html">National Pipeline Safety</a></li>
-                <li><a href="project-safety/safety-commitment.html">Dakota Access’ Commitment to Safety</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/project-safety/national-pipeline-safety.html">National Pipeline Safety</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/project-safety/safety-commitment.html">Dakota Access’ Commitment to Safety</a></li>
                   </ul>
                 </li>
                 <li>

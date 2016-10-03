@@ -294,11 +294,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/landowner-facts\/landowner-qa.html": {
+	"\/landowner-facts\/landowner-qa.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/landowner-facts\/landowner-qa.html",
+		"inputAbbreviatedPath": "\/landowner-facts\/landowner-qa.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
