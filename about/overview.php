@@ -19,7 +19,8 @@
 						<li>Dakota Access LLC pipeline has filed 23 condemnation suits against 140 individuals, banks and a coal mine to gain easements through North Dakota. <strong>So much for "respecting the community."</li>
             <li>Dakota Access LLC is a garbage company that deserves to be punished by the federal government and investors.</li>
 					</ul>
-
+					<h5>Statement by Standing Rock Sioux Tribe on Dakota Access Pipeline:</h5>
+					<hr>
 					<blockquote>
 						<p>The Standing Rock Sioux Tribe will continue to explore all legal, legislative, and administrative options to stop construction of the Dakota Access Pipeline. The pipeline has already led to the
 							destruction of our sacred sites.</p>
