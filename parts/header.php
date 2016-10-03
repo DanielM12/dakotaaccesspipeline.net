@@ -92,7 +92,7 @@
 
 		      <div class="medium-8 columns">
             <img id="logo" src="http://dakotaaccesspipeline.net/img/logo.svg" />
-			      <h1><a href="http://dakotaaccesspipeline.net">Dakota Access Pipeline (DAPL)</a></h1>
+			      <h1 id="site-title"><a href="http://dakotaaccesspipeline.net">Dakota Access Pipeline (DAPL)</a></h1>
 		      </div>
 
 		      <div class="medium-4 hide-for-small columns">

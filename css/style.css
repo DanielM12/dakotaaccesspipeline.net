@@ -108,6 +108,10 @@ header h1 {
 	margin:25px 0px 10px;
 }
 
+#site-title a {
+	color:white;
+}
+
 .top-bar {
 	background: #7790aa;
 	margin-bottom: 20px;
