@@ -6,3 +6,10 @@ AMP support.
 JSON-LD support.
 
 ## Trying to upset the beast.
+Website by Kelly Mears (http://kellymears.me)
+For Other98
+
+Direct any hate, love, or legal "feedback" my way: hello@kellymears.me.
+Or through git.
+
+### Peace.
