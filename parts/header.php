@@ -158,9 +158,9 @@
                   </ul>
                 </li>
                 <li class="has-dropdown">
-                  <a href="http://dakotaaccesspipeline.net/index.html#">How To Keep Your Family Safe</a>
+                  <a href="http://dakotaaccesspipeline.net/index.html#">Dakota Access Pipeline Exports</a>
                   <ul class="dropdown">
-                <li><a href="http://dakotaaccesspipeline.net/project-safety/national-pipeline-safety.html">National Pipeline Safety</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/project-safety/national-pipeline-safety.html">Dakota Access Pipeline and Foreign Oil</a></li>
                 <li><a href="http://dakotaaccesspipeline.net/project-safety/safety-commitment.html">Dakota Access’ Commitment to Safety</a></li>
                   </ul>
                 </li>

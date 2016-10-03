@@ -9,6 +9,7 @@
 						<img src="../img/dapl-map-full.jpg" alt="route"/>
 
 						<h5>The Dakota Access Pipeline Runs Through American Heritage Sites</h5>
+						
 						<p>The existing easement is for the Northern Border Pipeline, a smaller natural gas line, with a
 							smaller construction footprint.  The easement has never been surveyed for traditional cultural
 							properties of the Standing Rock Sioux Tribe.  The Tribe was not afforded the right to survey the
