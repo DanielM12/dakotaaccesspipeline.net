@@ -88,7 +88,7 @@
 	      <div class="row">
 
 		      <div class="medium-8 columns">
-            <img id="logo" src="http://dakotaaccesspipeline.net/img/logo.svg" />
+            <img id="logo" src="http://dakotaaccesspipeline.net/img/energy-Transfers.jpg" alt="Energy Transfer, LLC" />
 			      <h1 id="site-title"><a href="http://dakotaaccesspipeline.net">Dakota Access Pipeline (DAPL)</a></h1>
 		      </div>
 
