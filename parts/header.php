@@ -26,6 +26,7 @@
     <meta name="copyright" content="This Bad Idea brought to you by Energy Transfer">
 	  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
     <meta name="description" content="The Dakota Access pipeline is proposed to transport crude oil from the North Dakota Bakken region, endangering the lives and livelihoods of everyone in its path.">
+    <meta name="keywords" content="Dakota Access Pipeline">
 
     <!-- css -->
     <link rel="stylesheet" href="http://dakotaaccesspipeline.net/css/foundation.css" />
@@ -34,10 +35,6 @@
 
     <!-- js -->
     <script src="http://dakotaaccesspipeline.net/js/vendor/modernizr.js"></script>
-
-    <!-- AMP
-      doc: https://developers.google.com/search/docs/guides/use-AMP-HTML -->
-    <link rel="canonical" href="http://dakotaaccesspipeline.net/index.amp.html" />
 
      <!-- gAnalytics -->
     <script>
