@@ -75,7 +75,7 @@
 				 <p><blockquote>“Safeguarding and ensuring the longevity of culturally-significant artifacts and sites is of interest to all Americans.  That’s why the Dakota Access Pipeline traverses
 					 a path on private property.”</blockquote></p>
 
-				 <p><strong>The Facts:</strong> On September 3, DAPL workers intentionally destroyed a half-dozen burial sites on now-private land, which the Tribe occupied historically.
+				 <p><strong>The Facts:</strong> On September 3, DAPL workers intentionally destroyed a significant number of burial sites on now-private land, which the Tribe occupied historically.
 					 There are numerous other cultural sites of Standing Rock Tribal origin on this land, and DAPL actually purchased the property in order to
 					 facilitate construction, to avoid further evaluation and protection of these sites.  The company has acted aggressively to avoid compliance
 					 with federal protections of their sacred sites.</p>
