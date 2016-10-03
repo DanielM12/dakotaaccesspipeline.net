@@ -119,26 +119,26 @@
             <section class="top-bar-section">
               <ul class="left">
                 <li class="has-dropdown">
-                  <a href="http://dakotaaccesspipeline.net/about/overview.php">About the Dakota Access Pipeline</a>
+                  <a href="http://dakotaaccesspipeline.net/about/overview">About the Dakota Access Pipeline</a>
                   <ul class="dropdown">
-                <li><a href="http://dakotaaccesspipeline.net/about/overview.php">Overview</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/about/route.php">The Route</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/about/community.php">In the Community</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/about/overview">Overview</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/about/route">The Route</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/about/community">In the Community</a></li>
               </ul></li>
                 <li class="has-dropdown">
-                  <a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-qa.php">Landowner Issues</a>
+                  <a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-qa">Landowner Issues</a>
                   <ul class="dropdown">
-                  <li><a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-qa.php">Landowner Q&A</a></li>
+                  <li><a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-qa">Landowner Q&A</a></li>
                   </ul>
                 </li>
                 <li class="has-dropdown">
-                  <a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil.php">Dakota Access Pipeline Foreign Oil Exports</a>
+                  <a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil">Dakota Access Pipeline Foreign Oil Exports</a>
                   <ul class="dropdown">
-                <li><a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil.php">Dakota Access Pipeline and Foreign Oil</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil">Dakota Access Pipeline and Foreign Oil</a></li>
                   </ul>
                 </li>
                 <li>
-                  <a href="http://dakotaaccesspipeline.net/contact/contact.php">Contact</a>
+                  <a href="http://dakotaaccesspipeline.net/contact/contact">Contact</a>
                 </li>
               </ul>
             </section>
