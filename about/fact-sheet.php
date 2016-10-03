@@ -11,7 +11,7 @@
 						in Illinois with additional potential points of destination along the pipeline route.</p>
 					<p>If you search on Google, chances are you'll be on a website that makes it seem like it's a great idea.
 						But &mdash; thing is &mdash; the DAPL is a terrible idea. <strong>The reason why Google says otherwise is that the millionaire Texans
-							who run Dakota Access, LLC produce a ton of expensive websites aimed to misinform the everyday people they're aiming to take
+							who run Dakota Access, LLC produce a ton of expensive websites aimed to misinform the everyday people they're taking
 							advantage of.</strong></p>
 					<p>Here's are <strong>the facts</strong> presented alongside some of the lies Dakota Access has been telling online about the
 						safety of the DAPL and their legal standing with the Standing Rocking Sioux Tribe:</p>
