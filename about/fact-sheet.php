@@ -4,7 +4,7 @@
 			    <div class="large-8 columns">
 
 
-					<h4>Dakota Access Pipeline Fact Sheet</h4>
+					<h3>Dakota Access Pipeline Fact Sheet</h3>
 					<hr/>
 					<p>Energy Transfer, LLP, the owner of the Dakota Access Pipeline, has engaged in a misinformation campaign
 						about DAPL and its impacts on the Standing Rock Sioux Tribe.  The company has posted a “fact-checker” full
@@ -12,7 +12,7 @@
 						(http://standingrockfactchecker.org/fact-checking-srst-claims-9-7-16/).
 						The DAPL “fact checker” deserves a fact-checking.</p>
 
-Energy Transfer:
+				  Energy Transfer:
 
 “The Dakota Access Pipeline traverses a path on private property and does not cross the Standing Rock Sioux Tribe’s reservation.  100% of landowners in North Dakota voluntarily signed easements to allow for construction of the pipeline on their property.”
 
@@ -121,21 +121,16 @@ On August 30 and September 1, Tribal cultural specialists were permitted by a pr
 
 			    </div>
 
-			    <div class="large-4 columns">
-				    <div id="side-nav">
-				      <ul>
-					    <li><h5><em>Quick Links</em></h5></li>
-				        <li><a href="../resources/faq.html">Frequently Asked Questions</a></li>
-				        <li><a href="fact-sheet.html">Fact Sheet</a></li>
-				        <li><a href="route.html">The Route</a></li>
-				        <li><a href="../news/press-releases.html">Press Releases</a></li>
-				        <li><a href="../contact/contact.html">Contact Us</a></li>
-			      	  </ul>
-				    </div>
-			    </div>
+			    <?php include("../parts/side-nav.php"); ?>
 		    </div>
 
 	    </div>
     </div>
+
+		<style>
+			#header-image {
+				display:none;
+			}
+		</style>
 
 <?php require("../parts/footer.php"); ?>

@@ -23,18 +23,8 @@
 
 			    </div>
 
-			    <div class="large-4 columns">
-				    <div id="side-nav">
-				      <ul>
-					    <li><h5><em>Quick Links</em></h5></li>
-				        <li><a href="../resources/faq.html">Frequently Asked Questions</a></li>
-				        <li><a href="fact-sheet.html">Fact Sheet</a></li>
-				        <li><a href="route.html">The Route</a></li>
-				        <li><a href="../news/press-releases.html">Press Releases</a></li>
-				        <li><a href="../contact/contact.html">Contact Us</a></li>
-			      	  </ul>
-				    </div>
-			    </div>
+			    <?php require("../parts/side-nav.php"); ?>
+					
 		    </div>
 
 	    </div>

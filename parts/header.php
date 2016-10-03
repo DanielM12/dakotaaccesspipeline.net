@@ -109,7 +109,7 @@
 		      <div class="medium-4 hide-for-small columns">
 
 			      <ul id="header-nav">
-				      <li><a href="#" class="button alert large-expanded small-expanded expand">Subscribe To DAPL Spill Alerts</a></li>
+				      <li><a href="#" class="button alert expand">Subscribe To DAPL Spill Alerts</a></li>
 			      </ul>
 
 		      </div>
@@ -127,12 +127,10 @@
             <ul class="title-area">
               <li class="name">
               </li>
-               <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
               <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
             </ul>
 
             <section class="top-bar-section">
-              <!-- Left Nav Section -->
               <ul class="left">
                 <li class="has-dropdown">
                   <a href="http://dakotaaccesspipeline.net/about/overview.php">About the Dakota Access Pipeline</a>
