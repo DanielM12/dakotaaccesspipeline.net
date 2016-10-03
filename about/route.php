@@ -16,7 +16,7 @@
 							corridor for Northern Border and other prior projects, because they were built before the legal
 							rights to consultation on traditional cultural properties were issued in 2000.  These rights exist
 							today, but were not properly applied with DAPL.   The Tribe’s aboriginal land extends from Wyoming
-							to Iowa, and we have historical camps and ceremonial sites throughout the pipeline route.</p>
+							to Iowa, and they have historical camps and ceremonial sites throughout the pipeline route.</p>
 
 			    </div>
 
