@@ -137,7 +137,7 @@
                 <li class="has-dropdown">
                   <a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil.php">Dakota Access Pipeline Foreign Oil Exports</a>
                   <ul class="dropdown">
-                <li><a href="http://dakotaaccesspipeline.net/project-safety/national-pipeline-safety.php">Dakota Access Pipeline and Foreign Oil</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil.php">Dakota Access Pipeline and Foreign Oil</a></li>
                   </ul>
                 </li>
                 <li>
