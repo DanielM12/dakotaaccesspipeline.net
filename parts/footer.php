@@ -1,7 +1,7 @@
 <footer>
   <div class="row">
     <div class="large-5 columns">
-    <p>This informational campaign is brought to you by a coalition of North Dakotan farmers, tribal leaders &amp small businesses.</p>
+      <p>This informational campaign is brought to you by Other98.</p>
     </div>
   </div>
 </footer>
