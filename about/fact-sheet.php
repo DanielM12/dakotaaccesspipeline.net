@@ -13,7 +13,7 @@
 						But &mdash; thing is &mdash; the DAPL is a terrible idea. <strong>The reason why Google says otherwise is that the millionaire Texans
 							who run Dakota Access, LLC produce a ton of expensive websites aimed to misinform the everyday people they're taking
 							advantage of.</strong></p>
-					<p>Here's are <strong>the facts</strong> presented alongside some of the lies Dakota Access has been telling online about the
+					<p>Here are <strong>the facts</strong> presented alongside some of the lies Dakota Access has been telling online about the
 						safety of the DAPL and their legal standing with the Standing Rocking Sioux Tribe:</p>
 
 					<h3>Dakota Access, LLC Sued Hundreds &amp; Took Their Land</h3>
