@@ -4,49 +4,52 @@
 			    <div class="large-8 columns">
 
 
-					<h2>Dakota Access Pipeline Facts</h2>
-					<hr/>
-					<p>Energy Transfer, LLP, the owner of the Dakota Access Pipeline, has engaged in a misinformation campaign
-						about DAPL and its impacts on the Standing Rock Sioux Tribe.  The company has posted a “fact-checker” full
-						of misleading information and innuendo against the Tribe. <strong>The DAPL “fact checker” deserves a fact-checking.</strong></p>
+					<h2>Dakota Access Pipeline (DAPL) Facts</h2>
+					<hr>
+					<p>Dakota Access, LLC, a subsidiary of Energy Transfer Crude Oil Company, LLC, is developing
+						a new pipeline to transport crude oil from the Bakken/Three Forks play in North Dakota to a terminus
+						in Illinois with additional potential points of destination along the pipeline route.</p>
+					<p>If you search on Google, chances are you'll be on a website that makes it seem like it's a great idea.
+						But &mdash; thing is &mdash; the DAPL is a terrible idea. <strong>The reason why Google says otherwise is that the millionaire Texans
+							who run Dakota Access, LLC produce a ton of expensive websites aimed to misinform the everyday people they're aiming to take
+							advantage of.</strong></p>
+					<p>Here's are <strong>the facts</strong> presented alongside some of the lies Dakota Access has been telling online about the
+						safety of the DAPL and their legal standing with the Standing Rocking Sioux Tribe:</p>
 
 					<h3>Dakota Access, LLC Sued Hundreds &amp; Took Their Land</h3>
-
-				  <h4>What Energy Transfer claims about the DAPL Easements:</h4>
+					<hr>
+				  <p>What Energy Transfer, LLC claims:</p>
 
 					<p><blockquote>“The Dakota Access Pipeline traverses a path on private property and does not cross the Standing
 						Rock Sioux Tribe’s reservation.  100% of landowners in North Dakota voluntarily signed easements to allow for
 						construction of the pipeline on their property.”</blockquote></p>
 
-					<h4>The True Story About How Dakota Access DAPL Sued Hundreds of Individuals &amp; Businesses:</h4>
+					<p><strong>The Truth:</strong> Dakota Access DAPL Sued Hundreds of Individuals &amp; Businesses to get what they wanted:</p>
 
-					<p><blockquote>The Bismarck Tribune reported on January 1, 2016, “Dakota Access Pipeline Files Condemnation Lawsuits.”
-						The article explained, “Dakota Access LLC pipeline has filed 23 condemnation suits against 140 individuals, banks and a
+					<p><blockquote>“Dakota Access LLC pipeline has filed 23 condemnation suits against 140 individuals, banks and a
 						coal mine to gain easements through North Dakota.  Most of the suits were filed in December against landowners in Williams,
 						Mountrail, McKenzie, Dunn, Mercer and Morton Counties, mostly counties where people are feeling pipeline fatigue from numerous
-						oil and gas pipeline projects.”</blockquote></p>
+						oil and gas pipeline projects.”<cite>"Dakota Access Pipeline Condmenation Lawsuits", Bismarck Tribune, January 1, 2016</cite>
+					</blockquote></p>
 
 					<h3>The Dakota Access Pipeline's Federal Permit Is Not Final</h3>
+					<hr>
+					<p>What Energy Transfer, LLC claims:</p>
 
-					<h4>What Energy Transfer Says On Their Site:</h4>
+					<p><blockquote>“Nearly the entire route of the 1,172-mile pipeline has been sited and approved by relevant state and federal agencies.”</blockquote></p>
 
-					<p><blockquote>“Nearly the entire route of the 1,172-mile pipeline has been sited and approved by relevant state and federal agencies.”<blockquote></p>
-
-					<h4>The Dakota Access Pipeline Permit Approval Status:</h4>
-
-					<p><strong>The federal permit</strong> is not final.  Three federal agencies issued a joint statement on September 9, explaining that:</p>
-					<p><blockquote>“The Army will not authorize constructing the Dakota Access Pipeline on Corps land bordering or under Lake Oahe until
-						 it can determine whether it will need to reconsider any of its previous decisions regarding the Lake Oahe site.”
+					<p><strong>The Truth:</strong> The Army doesn't think so.</p>
+					<p><blockquote>"The Army will not authorize constructing the Dakota Access Pipeline on Corps land bordering or under Lake Oahe until it can determine whether it will need to reconsider any of its previous decisions regarding the Lake Oahe site.”
 						 <cite>Army Joint Statement, http://bit.ly/2dveZRa</cite></blockquote></p>
 
 					<h3>The Legal Status Of The Dakota Access Pipeline</h3>
-
-					<h4>Energy Transfer:</h4>
+					<hr>
+					<p>What Energy Transfer, LLC claims:</p>
 
 					<p><blockquote>“To the extent possible, the Dakota Access Pipeline was routed to parallel existing infrastructure, such as the Northern Border
 					Pipeline, to avoid environmentally-sensitive areas and areas of potential cultural significance.”</blockquote></p>
 
-					<h4>The Facts:</h4>
+					<p><strong>The Truth:</strong> The DAPL cuts right through culturally protected areas.</p>
 
 					<p>The existing easement is for the Northern Border Pipeline, a smaller natural gas line, with a smaller construction footprint.  The easement
 						has never been surveyed for traditional cultural properties of the Standing Rock Sioux Tribe.  The Tribe was not afforded the right to survey
@@ -54,45 +57,51 @@
 						properties were issued in 2000.  These rights exist today, but were not properly applied with DAPL.   The Tribe’s aboriginal land extends from
 						Wyoming to Iowa, and they have historical camps and ceremonial sites throughout the pipeline route.</p>
 
-					<h4>Energy Transfer:</h4>
-
+					<h3>The DAPL Is Not Safe</h3>
+					<hr>
+					<p>What Energy Transfer, LLC claims:</p>
 					<p><blockquote>“Designing the route to parallel existing infrastructure mitigates any additional impacts to the environment and avoids areas of potential significance.</blockquote></p>
 
-					<h4>The Facts:</h4>
+					<p><strong>The Facts:</strong> Building the Dakota Access Pipeline DAP near existing infrastructure is MORE dangerous.</h4>
 
-					<p>Actually, the co-location of DAPL with the Northern Border Pipeline and other utilities creates additional risk of a spill, caused by the corrosive electrical currents of the other
+					<p>The co-location of DAPL with the Northern Border Pipeline and other utilities creates additional risk of a spill, caused by the corrosive electrical currents of the other
 						pipeline and power lines.   Energy Transfer engineers must adapt the DAPL line to the existing currents, or corrosion will occur more rapidly.  Any miscommunication among numerous
 						utilities operating in the easement, and the increased potential for human error, intensifies the risk of corrosion and an oil spill.</p>
 
-				 <h4>Energy Transfer:</h4>
+					<h3>Dakota Access, LLC Has Willfully Destroyed Archaeologically Significant Standing Rock Sites</h3>
+					<hr>
+				 <p>What Energy Transfer, LLC claims:</p>
 
 				 <p><blockquote>“Safeguarding and ensuring the longevity of culturally-significant artifacts and sites is of interest to all Americans.  That’s why the Dakota Access Pipeline traverses
 					 a path on private property.”</blockquote></p>
 
-				 <h4>The Facts:</h4>
-
-				 <p>On September 3, DAPL workers intentionally destroyed a half-dozen burial sites on now-private land, which the Tribe occupied historically.
+				 <p><strong>The Facts:</strong> On September 3, DAPL workers intentionally destroyed a half-dozen burial sites on now-private land, which the Tribe occupied historically.
 					 There are numerous other cultural sites of Standing Rock Tribal origin on this land, and DAPL actually purchased the property in order to
 					 facilitate construction, to avoid further evaluation and protection of these sites.  The company has acted aggressively to avoid compliance
 					 with federal protections of their sacred sites.</p>
 
-				 <h4>Energy Transfer:</h4>
+				 <h3>American Archaeologists Call Energy Transfer, LLC and Dakota Access Pipeline DAPL Conduct Unprofessional</h3>
+				 <hr>
+				 <p>What Energy Transfer, LLC claims:</p>
 
 				 <p><blockquote>“On site there are professional archaeologists who are able to identify and properly identify these sites.”</blockquote></p>
 
-				 <h4>The Facts:</h4>
+				 <p><strong>The Facts:</strong> How can an Energy Transfer archaeolgist know anything if they never spoke with the tribe?</p>
 
 				 <p>The Society for American Archaeology wrote to the Corps of Engineers that:</p>
 				 <p><blockquote>“These stone formations may not be apparent to archaeological surveyors who lack the complete benefit of tribal consultation.”
 						 (Sept. 13, 2016).<cite>Society for American Archaeology</cite></blockquote></p>
-				 <p>Any claims by archaeologists paid by DAPL regarding the significance of traditional cultural properties are in violation of
-					 the professional standards described by the Society for American Archaeology.</p>
 
-				 <h4>Energy Transfer:</h4>
+				 <p>Any claims by archaeologists paid by DAPL regarding the significance of traditional cultural properties are <strong>in violation of
+					 the professional standards described by the Society for American Archaeology.</strong></p>
+
+				<h3>The Dakota Access Pipeline (DAPL) is a particularly unsafe method of transportation</h3>
+				<hr>
+				 <p>What Energy Transfer, LLC claims:</p>
 
 				 <p><blockquote>“Pipelines are &mdash; by far &mdash; the safest way to transport energy liquids and gases.  Already, 8 pipelines cross the Missouri River.”</blockquote></p>
 
-				 <h4>The Facts:</h4>
+				 <p><strong>The Facts:</strong> Crude pipelines are just flat-out dangerous.</p>
 
 				 <p>DAPL is no ordinary pipeline.  It is very large, with a 36 inch diameter and capacity of 570,000 barrels per day – it would significantly increase the total capacity of
 					 the pipelines crossing the Missouri River.  DAPL presents a far greater risk to the environment and public health than other, smaller liquid and natural gas lines.

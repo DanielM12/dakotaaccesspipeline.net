@@ -92,14 +92,13 @@
 
 		      <div class="medium-8 columns">
             <img id="logo" src="http://dakotaaccesspipeline.net/img/logo.svg" />
-			      <h1>Dakota Access Pipeline (DAPL)</h1>
+			      <h1><a href="http://dakotaaccesspipeline.net">Dakota Access Pipeline (DAPL)</a></h1>
 		      </div>
 
 		      <div class="medium-4 hide-for-small columns">
 
 			      <ul id="header-nav">
-				      <li><a href="#" class="button alert expand">Subscribe To DAPL Spill Alerts</a></li>
-              <li><div class="fb-like" data-share="true" data-width="450" data-show-faces="true"></div></li>
+				      <li><a href="http://dakotaaccesspipeline.net/about/fact-sheet.php" class="button alert">Just The Facts</a></li>
 			      </ul>
 
 		      </div>
@@ -128,44 +127,21 @@
                 <li><a href="http://dakotaaccesspipeline.net/about/overview.php">Overview</a></li>
                 <li><a href="http://dakotaaccesspipeline.net/about/route.php">The Route</a></li>
                 <li><a href="http://dakotaaccesspipeline.net/about/community.php">In the Community</a></li>
-              </ul>
-                </li>
+              </ul></li>
                 <li class="has-dropdown">
-                  <a href="index.html#">Dakota Access Pipeline Facts</a>
+                  <a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-qa.php">Landowner Issues</a>
                   <ul class="dropdown">
-                <li><a href="http://dakotaaccesspipeline.net/resources/faq.html">Frequently Asked Questions</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/resources/project-filings.html">Project Filings</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/resources/project-maps.html">Project Maps</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/resources/presentations.html">Presentations</a></li>
-              </ul>
-                </li>
-                <li class="has-dropdown">
-                  <a href="index.html#">Dakota Access Pipeline Dangers</a>
-                  <ul class="dropdown">
-                <li><a href="http://dakotaaccesspipeline.net/dangers/faq.html">Frequently Asked Questions</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/resources/project-filings.html">Project Filings</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/resources/project-maps.html">Project Maps</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/resources/presentations.html">Presentations</a></li>
-              </ul>
-                </li>
-                <li class="has-dropdown">
-                  <a href="http://dakotaaccesspipeline.net/landowner-qa.php">Landowner Issues</a>
-                  <ul class="dropdown">
-                  <li><a href="http://dakotaccesspipeline.net/landowner-facts/landowner-qa.php">Landowner Q&A</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/landowner-facts/environmental-protection.html">Environmental Protection</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/landowner-facts/agricultural-plan.html">Agricultural Plan</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-property.html">Landowner Property</a></li>
+                  <li><a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-qa.php">Landowner Q&A</a></li>
                   </ul>
                 </li>
                 <li class="has-dropdown">
-                  <a href="http://dakotaaccesspipeline.net/index.html#">Dakota Access Pipeline Exports</a>
+                  <a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil.php">Dakota Access Pipeline Foreign Oil Exports</a>
                   <ul class="dropdown">
-                <li><a href="http://dakotaaccesspipeline.net/project-safety/national-pipeline-safety.html">Dakota Access Pipeline and Foreign Oil</a></li>
-                <li><a href="http://dakotaaccesspipeline.net/project-safety/safety-commitment.html">Dakota Access’ Commitment to Safety</a></li>
+                <li><a href="http://dakotaaccesspipeline.net/project-safety/national-pipeline-safety.php">Dakota Access Pipeline and Foreign Oil</a></li>
                   </ul>
                 </li>
                 <li>
-                  <a href="index.html#">Contact</a>
+                  <a href="http://dakotaaccesspipeline.net/contact/contact.php">Contact</a>
                 </li>
               </ul>
             </section>

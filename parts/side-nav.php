@@ -2,12 +2,11 @@
   <div id="side-nav">
     <ul>
     <li><h5><em>Quick Links</em></h5></li>
-      <li><a href="http://dakotaaccesspipeline.net/resources/faq.html">Frequently Asked Questions</a></li>
       <li><a href="http://dakotaaccesspipeline.net/about/fact-sheet.php">Fact Sheet</a></li>
       <li><a href="http://dakotaaccesspipeline.net/about/route.php">The Route</a></li>
-      <li><a href="news/press-releases.html">Press Releases</a></li>
-      <li><a href="contact/contact.html">Contact Us</a></li>
+      <li><a href="http://dakotaaccesspipeline.net/landowner-facts/landowner-qa.php">Landowner Issues</a></li>
+      <li><a href="http://dakotaaccesspipeline.net/about/community.php">DAPL "In The Community"</a></li>
+      <li><a href="http://dakotaaccesspipeline.net/contact/contact.php">Contact Us</a></li>
       </ul>
   </div>
-  <img src="img/water.jpg" alt="Questions About Water Safety and the Dakota Access Pipeline (DAPL)" />
 </div>
