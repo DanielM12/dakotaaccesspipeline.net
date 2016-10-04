@@ -1,7 +1,7 @@
 <footer>
   <div class="row">
     <div class="large-12 columns">
-      <p><strong>This informational campaign is brought to you by Other98, IP3 &mdash; Indigenous Peoples Power Project &amp; Thunder Valley.</strong></p>
+      <p><strong>This informational campaign is brought to you by Other98 &amp; IP3 &mdash; Indigenous Peoples Power Project</strong></p>
     </div>
   </div>
 </footer>
