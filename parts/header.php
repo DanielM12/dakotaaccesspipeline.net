@@ -132,6 +132,12 @@
                   </ul>
                 </li>
                 <li class="has-dropdown">
+                  <a href="http://dakotaaccesspipeline.net/about/fact-sheet">Dakota Access Pipline Facts</a>
+                  <ul class="dropdown">
+                  <li><a href="http://dakotaaccesspipeline.net/about/fact-sheet">DAPL Facts</a></li>
+                  </ul>
+                </li>
+                <li class="has-dropdown">
                   <a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil">Dakota Access Pipeline Foreign Oil Exports</a>
                   <ul class="dropdown">
                 <li><a href="http://dakotaaccesspipeline.net/foreign-oil/dakota-access-pipeline-loves-foreign-oil">Dakota Access Pipeline and Foreign Oil</a></li>
