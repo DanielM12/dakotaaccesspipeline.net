@@ -25,7 +25,7 @@
     <title>Dakota Access Pipeline</title>
     <meta name="copyright" content="This Bad Idea brought to you by Energy Transfer">
 	  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
-    <meta name="description" content="The Dakota Access pipeline is proposed to transport crude oil from the North Dakota Bakken region, endangering the lives and livelihoods of everyone in its path.">
+    <meta name="description" content="The Dakota Access pipeline is proposed to transport crude oil and endanger the lives of North Dakotans.">
     <meta name="keywords" content="Dakota Access Pipeline">
 
     <!-- css -->
